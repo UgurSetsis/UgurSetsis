@@ -15,8 +15,8 @@ C# ve Android alanında uzmanlaşmış, kurumsal yazılım çözümleri üreten 
 
 ## 🚀 Şu Anda Üzerinde Çalıştıklarım
 
-- Android uygulamaları (RFID, NFC ve stok yönetimi entegrasyonlu)
-- ASP.NET tabanlı backend servisleri
+- Android uygulamaları (RFID, NFC, ERP ve stok yönetimi entegrasyonlu)
+- .NET tabanlı backend servisleri
 - MSSQL veri modelleri ve performanslı sorgular
 
 ## 📌 İletişim
